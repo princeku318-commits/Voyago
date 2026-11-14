@@ -1,0 +1,22 @@
+{
+  "name": "voyago-travel-platform",
+  "version": "1.0.0",
+  "description": "VOYAGO — Premium 3D Travel Agency Platform featuring interactive Three.js Earth globe, Leaflet planetary atlas, trip planner, demo booking engine, and Admin REST management.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "keywords": [
+    "travel",
+    "threejs",
+    "leaflet",
+    "interactive-3d",
+    "booking-engine",
+    "admin-dashboard",
+    "luxury-travel",
+    "express"
+  ],
+  "author": "VOYAGO Engineering Team",
+  "license": "MIT"
+}
